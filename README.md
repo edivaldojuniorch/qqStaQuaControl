@@ -6,7 +6,7 @@
 
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Ststitical Process Control Chart for python</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
