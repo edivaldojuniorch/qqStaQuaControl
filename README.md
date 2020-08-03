@@ -25,7 +25,7 @@
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
--  **React Js** — A python library for building statistical process control chart
+-  **Python** — A python library for building statistical process control chart
 
 ## Getting started
 
